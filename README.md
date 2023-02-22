@@ -11,8 +11,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![CODEWARS](https://img.shields.io/badge/CODEWARS-011805?style=for-the-badge&logo=codewars&logoColor=bb432c)](https://www.codewars.com/users/Victoria_Kovaliova)
-![My Codewars](https://www.codewars.com/users/Victoria_Kovaliova/badges/small)
-
+![My Codewars](https://www.codewars.com/users/Victoria_Kovaliova/badges/large)
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-kavaliova/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com)
